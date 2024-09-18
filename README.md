@@ -4,6 +4,13 @@
 Hoy hemos aprendido a hacer cuadernos de bitácora y a usar GitHub con VSCode.
 Para ello, hemos dado permisos a VSCode de usar nuestra cuenta de GitHub y hemos podido subir cosas desde VSCode a nuestro nuevo repositorio de prueba de GitHub.
 
+* **Nombre**: Víctor
+* **Universidad**: Universidad Rey Juan Carlos
+* **Profesión**: Ingeniero Robótico de software.
+
+![image](https://github.com/user-attachments/assets/684302a7-40b4-4539-9e68-9cd057900aa1)
+
+
 ## Día 2
 
 Hemos aprendido a usar Inkscape haciendo diferentes retos que se nos han propuesto en clase, manejando atajos y formas para hacer dibujos más trabajados.
