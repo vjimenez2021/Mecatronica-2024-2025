@@ -25,3 +25,10 @@ Y por ultimo he utilizado las diferentes funciones que nos ofrecen los nodos par
 
 ![image](https://github.com/user-attachments/assets/67bc3be5-ed34-46f6-988c-9185e32a2f00)
 #### Robot Mecatrónica URJC 2
+
+
+## Dias 2, 3 y 4
+
+Durante la sesion 2 hemos seguido con el tutorial de InkScape donde hemos aprendido a usar tećnicas para dibujar mejor.
+Como por ejemplo técnicas de calcado para calcar dibujos dificiles sin saber apenas dibujar.
+Esta técnica está muy bien para casos como el mío ya que no se me da bien dibujar pero así salen dibujos buenos y bonitos.
