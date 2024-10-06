@@ -40,3 +40,18 @@ También hemos aprendido a usar un programa de modelado 3D llamado Freecad en el
 
 ![imagen](https://github.com/user-attachments/assets/d7c9871d-847b-4342-b421-5cd6cec5e8ac)
 
+
+Después de visualizar diferentes modelos ya hechos, lo que hemos hecho es empezar nosotros a formar nuestros propios modelos y figuras.
+
+Para empezar hemos añadido un cubo a la botella, moneda y lata:
+
+![imagen](https://github.com/user-attachments/assets/26fc083b-321c-4353-823a-4d24282c8780)
+
+Aqui tambien hemos aprendido a hacer diferentes formas con las operaciones disponibles en Freecad.
+Por ejemplo, hemos podido hacer diferentes sustracciones y sumas para crear nuevas figuras como estas:
+
+![imagen](https://github.com/user-attachments/assets/c9b43eaf-1c47-49df-9f8d-d4a5949cb638)
+
+![imagen](https://github.com/user-attachments/assets/e98df25e-53f4-4c64-94bc-3b939457266d)
+
+
