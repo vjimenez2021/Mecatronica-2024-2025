@@ -32,3 +32,11 @@ Y por ultimo he utilizado las diferentes funciones que nos ofrecen los nodos par
 Durante la sesion 2 hemos seguido con el tutorial de InkScape donde hemos aprendido a usar tećnicas para dibujar mejor.
 Como por ejemplo técnicas de calcado para calcar dibujos dificiles sin saber apenas dibujar.
 Esta técnica está muy bien para casos como el mío ya que no se me da bien dibujar pero así salen dibujos buenos y bonitos.
+
+###FreeCad
+También hemos aprendido a usar un programa de modelado 3D llamado Freecad en el que de momento, hemos empezado abriendo algunos modelos ya creados como los siguiente:
+
+![imagen](https://github.com/user-attachments/assets/5b17895a-bf48-42d3-b198-5a33647f36dc)
+
+![imagen](https://github.com/user-attachments/assets/d7c9871d-847b-4342-b421-5cd6cec5e8ac)
+
