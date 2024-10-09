@@ -55,3 +55,8 @@ Por ejemplo, hemos podido hacer diferentes sustracciones y sumas para crear nuev
 ![imagen](https://github.com/user-attachments/assets/e98df25e-53f4-4c64-94bc-3b939457266d)
 
 
+# Dia 5
+
+Hoy hemos aprendido diferentes técnicas de ensamblaje con FreeCad
+
+![imagen](https://github.com/user-attachments/assets/640dc7bb-6d05-458f-a9b1-fe4ddc31a514)
